@@ -4,6 +4,9 @@
 ## javac NombreDelArchivo.java
 ## y posteriormente se ejecuta con
 ## java NombreDelArchivo
+## LINK DE MI REPOSITORIO PERSONAL
+## https://github.com/ELBA21/Git
+## Archivo se encuentra en carpeta Python
 
 if __name__ == "__main__":
     print("====Prueba Indice Cintura/Altura (ICA)====")
